@@ -4,6 +4,5 @@
 
 #### 저는 개발자의 길을 걷기 위해 열심히 프로젝트를 만들고 있어요
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+---
 
