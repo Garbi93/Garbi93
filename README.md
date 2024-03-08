@@ -17,16 +17,16 @@
 
 ---
 ## 📚STACK
-### Back-End
+### 👜 Back-End
 <div>
   <img src="https://img.shields.io/badge/Java 17-139C5A?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot 3-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 </div>
 
-### Data-Base
+### 💾 Data-Base
 <img src="https://img.shields.io/badge/MariaDB 10.11-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
 
-### Front-End
+### 🖥️ Front-End
 <div>
   <img src="https://img.shields.io/badge/HTML 5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS 3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
