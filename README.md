@@ -9,7 +9,7 @@
 <div>
   Blog: <a href="https://seungwon2093.tistory.com/"> <img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white"/></a>
   &nbsp;&nbsp; / &nbsp;&nbsp;
-  About Me: <a href="https://www.notion.so/312d3dff7b474db3a6d9417f00c8c824?pvs=4"><img src ="https://img.shields.io/badge/notion-000000.svg?&style=flat&logo=notion&logoColor=ffffff"/></a>
+  About Me: <a href="https://icy-dish-0e6.notion.site/312d3dff7b474db3a6d9417f00c8c824?pvs=4"><img src ="https://img.shields.io/badge/notion-000000.svg?&style=flat&logo=notion&logoColor=ffffff"/></a>
   &nbsp;&nbsp; / &nbsp;&nbsp;
   Email: <a href="mailto:iseung2093@gmail.com" target="_blank"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat&logo=Gmail&logoColor=ffffff"/></a>
 </div>
