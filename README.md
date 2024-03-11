@@ -39,3 +39,8 @@
   <img src="https://img.shields.io/badge/chakraui-319795?style=for-the-badge&logo=chakraui&logoColor=white"/>
   <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
 </div>
+
+---
+
+## 🏫 EDUCATED
+#### 중앙정보처리학원 : 2023. 07. 25 ~ 2024. 02. 02
