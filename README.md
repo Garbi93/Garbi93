@@ -46,11 +46,20 @@
 #### 중앙정보처리학원 : 2023. 07. 25 ~ 2024. 02. 02
 
 ---
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garbi93&size_weight=0.15&count_weight=0.5&layout=donut&theme=vision-friendly-dark">
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lswon2093)](https://solved.ac/lswon2093)
+<div align="center">
+
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garbi93&size_weight=0.15&count_weight=0.5&layout=donut&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Garbi93&show_icons=true&theme=transparent">
+
+</div>
+
+<br/>
+
+
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lswon2093">
+  
+
   
 
 
