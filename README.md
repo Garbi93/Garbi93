@@ -48,7 +48,12 @@
 ---
 
 <div align="center">
-  <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garbi93&size_weight=0.15&count_weight=0.5&layout=donut&theme=vision-friendly-dark">
+  <img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garbi93&size_weight=0.15&count_weight=0.5&layout=donut&theme=vision-friendly-dark">
+</div>
+
+  <br/>
+
+<div align="center">  
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Garbi93&show_icons=true&theme=transparent">
 </div>
 
