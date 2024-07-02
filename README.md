@@ -2,9 +2,6 @@
 
 ## 안녕하세요 반가워요 👋
 
-저는  $\bf{\textsf{\color{skyblue}프론트도 폭 넓게}}$ 이해하는 $\bf{\textsf{\color{skyblue}백엔드 개발자}}$가 되고싶은 $\bf{\textsf{\color{skyblue}이승원}}$ 입니다. <br/>
-주 언어는  $\bf{\textsf{\color{skyblue}JAVA}}$ 입니다.
-
 ## 📬Contact-Me
 <div>
   Blog: <a href="https://seungwon2093.tistory.com/"> <img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white"/></a>
